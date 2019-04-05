@@ -19,6 +19,10 @@ ul {
   margin-bottom: 32px;
   padding-left: 6px;
 }
+@media only screen and (max-width: 479px){
+    #skills { width: 80%; }
+}
+
 .bar_container,
 .bar {
   position: absolute;
